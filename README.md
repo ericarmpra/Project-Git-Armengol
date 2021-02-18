@@ -1,2 +1,2 @@
-# Projecto birthday Zeller
+# Project birthday Zeller
 Git test
