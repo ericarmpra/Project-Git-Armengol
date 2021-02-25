@@ -1,4 +1,3 @@
 # Project birthday Zeller
-# Version 1.0
-# Eric Armengol
+Version 1.0 Author: Eric Armengol
 Git test
